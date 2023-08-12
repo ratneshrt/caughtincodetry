@@ -1,3 +1,3 @@
 # caughtincodetry
 # This repository is amazing.
-## College is maha boring.
+## College is boring.
